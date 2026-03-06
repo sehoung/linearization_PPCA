@@ -1,4 +1,4 @@
-# Regional Seismic Loss Estimation Framework
+# Linearized Regional Seismic Loss Estimation with PPCA
 
 This software provides Python code to simulate **regional seismic loss estimation**.
 
@@ -55,4 +55,4 @@ Below is a simple instruction to run the code.
 
 ## Output
 
-Simulation results and figures will be saved in:
+Simulation results and figures will be saved in: `out/figs`
