@@ -1,6 +1,6 @@
 # Linearized Regional Seismic Loss Estimation with PPCA
 
-This software provides Python code to simulate **regional seismic loss estimation**.
+This software provides Python code to simulate **regional seismic loss estimation**. The software is also available through DesignSafe: https://doi.org/10.17603/ds2-9hbb-c610
 
 It uses the computational framework proposed by **Houng and Ceferino (2026)**, which:
 
