@@ -2,7 +2,7 @@
 
 This software provides Python code to simulate **regional seismic loss estimation**. The software is also available through DesignSafe: https://doi.org/10.17603/ds2-9hbb-c610
 
-It uses the computational framework proposed by **Houng and Ceferino (2026)**, which:
+It uses the computational framework proposed by **Houng and Ceferino (2026)** (https://doi.org/10.31224/6578), which:
 
 1. Linearizes the **ground-motion–fragility coupling**
 2. Incorporates **Probabilistic Principal Component Analysis (PPCA)** for dimensionality reduction, enabling more efficient simulations.
@@ -55,4 +55,4 @@ Below is a simple instruction to run the code.
 
 ## Output
 
-Simulation results and figures will be saved in: `out/figs`
+Simulation results and figures will be saved in: `out/` and `out/figs`
